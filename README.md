@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, Yann Braga here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**yannbf/yannbf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭  **I’m currently working on** - A Storybook + React course!
+- 👯  **I’m looking to collaborate with** - You! Send me a DM on twitter :)
+- 💬  **Ask me about** - Storybook, React, Typescript, Programming in general, life or anything else
+- 🥅  **2020 Goal** - To give a talk at a conference
+- ⚡  **Fun fact** - I'm an origamist!
 
-Here are some ideas to get you started:
+![Yann Braga's github stats](https://github-readme-stats.vercel.app/api?username=yannbf&show_icons=true&count_private=true&include_all_commits=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's connect!
+[![Twitter Badge](https://img.shields.io/badge/-yannbf-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yannbf) 
+[![Linkedin Badge](https://img.shields.io/badge/-Yann_Braga-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yannbraga/) 
+<br />
+
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+<br />
+<br />
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yannbf">
