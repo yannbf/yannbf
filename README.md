@@ -3,8 +3,15 @@
 - 🔭  **I’m currently working on** - A Storybook + React course!
 - 👯  **I’m looking to collaborate with** - You! Send me a DM on twitter :)
 - 💬  **Ask me about** - Storybook, React, Typescript, Programming in general, life or anything else
-- 🥅  **2020 Goal** - To give a talk at a conference
 - ⚡  **Fun fact** - I'm an origamist!
+- 🥅  **2020 Goal** - To give a talk at a conference. Update: Goal achieved! 
+
+  1 - [Codemotion - Supercharging App Development with Storybook](https://www.codemotion.com/talks/supercharging-app-development-with-storybook-17528)
+
+  2 - [BrazilJS (in Portuguese) - Monorepower: How a monorepo changed an entire organization](https://www.youtube.com/watch?v=2lvPT4VyfqE&ab_channel=BrazilJS)
+
+
+- 🥅  **2021 Goal** - To release my own course.
 
 ![Yann Braga's github stats](https://github-readme-stats.vercel.app/api?username=yannbf&show_icons=true&count_private=true&include_all_commits=true)
 
