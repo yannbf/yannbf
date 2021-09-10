@@ -1,7 +1,7 @@
 ### Hi there, Yann Braga here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭  **I’m currently working on** - A Storybook + React course!
-- 👯  **I’m looking to collaborate with** - You! Send me a DM on twitter :)
+- 👯  **I’m looking to collaborate with** - I'm quite busy with projects, but feel free to send me a DM on twitter :)
 - 💬  **Ask me about** - Storybook, React, Typescript, Programming in general, life or anything else
 - ⚡  **Fun fact** - I'm an origamist!
 - 🥅  **2020 Goal** - To give a talk at a conference. Update: Goal achieved! 
