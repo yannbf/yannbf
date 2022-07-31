@@ -1,6 +1,6 @@
 ### Hi there, Yann Braga here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🔭  **I’m currently working on** - A Storybook + React course!
+- 🔭  **I’m currently working on** - Making [Storybook](https://storybook.js.org/) better!
 - 👯  **I’m looking to collaborate with** - I'm quite busy with projects, but feel free to send me a DM on twitter :)
 - 💬  **Ask me about** - Storybook, React, Typescript, Programming in general, life or anything else
 - ⚡  **Fun fact** - I'm an origamist!
@@ -11,7 +11,8 @@
   2 - [BrazilJS (in Portuguese) - Monorepower: How a monorepo changed an entire organization](https://www.youtube.com/watch?v=2lvPT4VyfqE&ab_channel=BrazilJS)
 
 
-- 🥅  **2021 Goal** - To release my own course.
+- 🥅  **2021 Goal** - To release my own course. Update: Goal achieved!
+  [Check it out here!](https://www.newline.co/courses/storybook-for-react-apps)
 
 ![Yann Braga's github stats](https://github-readme-stats.vercel.app/api?username=yannbf&show_icons=true&count_private=true&include_all_commits=true)
 
