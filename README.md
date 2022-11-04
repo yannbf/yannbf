@@ -13,6 +13,9 @@
 
 - 🥅  **2021 Goal** - To release my own course. Update: Goal achieved!
   [Check it out here!](https://www.newline.co/courses/storybook-for-react-apps)
+  
+- 🥅  **2022 Goal** - To release my own website. Update: Goal achieved!
+  [Check it out here!](https://yannbraga.dev/)
 
 ![Yann Braga's github stats](https://github-readme-stats.vercel.app/api?username=yannbf&show_icons=true&count_private=true&include_all_commits=true)
 
